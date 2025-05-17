@@ -20,15 +20,15 @@ This app fetches real-time weather data from the [OpenWeatherMap API](https://op
 - OpenWeatherMap API
 
 ** Project Structure
-
+```
 weather-app/
-│
-├── images/               # Contains weather icons (Cloudy.svg, Sunny.svg, etc.)
-├── index.html            # Main HTML structure
-├── style.css             # Stylesheet
-├── script.js             # JavaScript functionality
-└── README.md             # Project documentation
 
+* images/               # Contains weather icons (Cloudy.svg, Sunny.svg, etc.)
+* index.html            # Main HTML structure
+* style.css             # Stylesheet
+* script.js             # JavaScript functionality
+* README.md             # Project documentation
+```
 ** How to Use
 
  Clone the repository:
