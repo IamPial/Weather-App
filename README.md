@@ -21,7 +21,6 @@ This app fetches real-time weather data from the [OpenWeatherMap API](https://op
 
 ** Project Structure
 
-```bash
 weather-app/
 │
 ├── images/               # Contains weather icons (Cloudy.svg, Sunny.svg, etc.)
@@ -32,21 +31,22 @@ weather-app/
 
 ** How to Use
 
-    Clone the repository:
+ Clone the repository:
 
-git clone https://github.com/IamPial/weather-app.git
-cd weather-app
-     Open index.html in your browser.
+        git clone https://github.com/IamPial/weather-app.git
+        cd weather-app
+        
+ * Open index.html in your browser.
 
-    Type a city name and click the search icon to get the current weather.
+ * Type a city name and click the search icon to get the current weather.
 
-    Make sure your internet connection is active for the API to fetch data.
+ * Make sure your internet connection is active for the API to fetch data.
 
 ** API Key
 
 This app uses the OpenWeatherMap API. Replace the API key in script.js with your own:
 
-const apiKey = 'Please write your apikey here';
+    const apiKey = 'Please write your apikey here';
 
 
 **License
