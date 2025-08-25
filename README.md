@@ -1,4 +1,4 @@
-*** Weather App ***
+# Weather App 
 
 A simple and clean weather application built using HTML, CSS, and JavaScript. 
 This app fetches real-time weather data from the [OpenWeatherMap API](https://openweathermap.org/api) and displays it based on the city input provided by the user.
